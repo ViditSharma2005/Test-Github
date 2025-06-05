@@ -1,5 +1,5 @@
 # hello
 # this is my markdown file 
-'''javascript
+```javascript
 console.log("Hello World");
-'''
+```
